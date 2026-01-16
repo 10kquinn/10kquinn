@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @10kquinn
 - 👀 I’m interested in Python and Solidity
 - 🌱 I’m currently learning Python and Solidity
-- 💞️ I’m looking to collaborate on Blockchain projects
 - 📫 How to reach me @10kcapital twitter
 
 
