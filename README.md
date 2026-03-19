@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @10kquinn
-- 👀 I’m interested in Python and Solidity
-- 🌱 I’m currently learning Python and Solidity
+- 👀 I’m interested in vibecoding
+- 🌱 I’m currently building automation software and fun side projects
 - 📫 How to reach me @10kcapital twitter
 
 
